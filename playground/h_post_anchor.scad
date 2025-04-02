@@ -14,6 +14,7 @@ module beam(){
 
 module h_post_anchor(){
     color ("silver")
+    rotate([0,0,90])
     translate ([
         -total_width/2,
         -total_depth/2,
